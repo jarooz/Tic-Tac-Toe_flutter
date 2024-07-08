@@ -5,21 +5,21 @@ This is a simple Flutter application demonstrating a login screen and a Tic-Tac-
 
 ## Screenshots
 
-**Login Screen**
+### Login Screen 
 
-![Login Screen](/screenshots/Login%20Screen.png)
+<img src="/screenshots/Login Screen.png" alt="Login Screen" width="300"/>
 
-**Logged in with Email**
+### Logged in with Email
 
-![Logged in with Email](/screenshots/Logged%20in%20with%20Email.png)
+<img src="/screenshots/Logged in with Email.png" alt="Logged in with Email" width="300"/>
 
-**Tic-Tac-Toe Game**
+### Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Game](/screenshots/Tic-Tac-Toe%20Game.png)
+<img src="/screenshots/Tic-Tac-Toe Game.png" alt="Tic-Tac-Toe Game" width="300"/>
 
-**Player Wins**
+### Player Wins
 
-![Player Wins](/screenshots/Player%20Wins.png)
+<img src="/screenshots/Player Wins.png" alt="Player Wins" width="300"/>
 
 ## How to Run
 **Prerequisites**
